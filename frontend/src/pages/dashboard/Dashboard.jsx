@@ -1,6 +1,6 @@
 import { useEffect,useState } from "react"
 import Navbar from "../../components/Navbar/Navbar"
-import Overview from "../../components/Overview/Overview";
+import Overview from "../../components/overview/Overview";
 import ServiceSummary from "../../components/ServiceSummary/ServiceSummary";
 import Referral from "../../components/Referrals/Referrals";
 import ReferralsTable from "../../components/ReferralsTable/ReferralsTable";
