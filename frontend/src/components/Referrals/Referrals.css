@@ -1,0 +1,23 @@
+.referral-container{
+    margin-top:40px;
+}
+
+.referral-card{
+    display:flex;
+    flex-direction:column;
+    gap:15px;
+    width:500px;
+    padding:20px;
+    border-radius:10px;
+    background:#f4f4f4;
+}
+
+.referral-card input{
+    padding:10px;
+}
+
+.referral-card button{
+    width:160px;
+    padding:10px;
+    cursor:pointer;
+}

@@ -1,0 +1,27 @@
+.overview-section {
+  margin-top: 30px;
+}
+
+.overview-cards {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.overview-card {
+  width: 220px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #f5f5f5;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.overview-card h3 {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.overview-card p {
+  font-size: 24px;
+  font-weight: bold;
+}
