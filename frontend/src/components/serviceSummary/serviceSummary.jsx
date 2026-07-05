@@ -1,4 +1,4 @@
-import "./ServiceSummary.css";
+import "./serviceSummary.css";
 
 const ServiceSummary = ({ serviceSummary }) => {
   return (

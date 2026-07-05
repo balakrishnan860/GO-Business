@@ -2,7 +2,7 @@ import { useEffect,useState } from "react"
 import Navbar from "../../components/Navbar/Navbar"
 import Overview from "../../components/overview/Overview";
 import ServiceSummary from "../../components/serviceSummary/serviceSummary";
-import Referral from "../../components/Referrals/Referrals";
+import Referrals from "../../components/Referrals/Referrals";
 import ReferralsTable from "../../components/ReferralsTable/ReferralsTable";
 import Footer from "../../components/Footer/Footer";
 import { api } from "../../services/api"
